@@ -1,0 +1,24 @@
+for
+
+es un cliclo repetitivo que me permite ejecutar un bloque de codigo un numero determinado de veces
+se maneja por medio de una variable que normalmente es "i" pero que puede cambiar si esta ya esta siendo utilizada; 
+este ciclo nos permite ahorrar muchisimo codigo ya que hace repeticiones automaticamente.
+
+&&
+
+&& es un operador logico , se representa con "Y" o "AND" su funcion es evaluar ambas expresiones y regresa TRUE solo si ambas 
+son true
+
+
+ ||
+
+|| es otro operador logico, se representa con "Ó" o "OR" su funcion es evaluar si una de las sons expresiones es true , y devuelve true su 
+una de las dos es true o ambas son true.
+
+
+
+ !
+
+! este operador logico se representa con "NOT" o "NO" , este operador devuelce el valor opuesto de lo que se le pasa a la funcion o al codigo.
+
+
