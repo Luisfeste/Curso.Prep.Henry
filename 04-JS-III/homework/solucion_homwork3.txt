@@ -1,0 +1,4 @@
+Arrays:
+
+un arreglo es una estructura de datos que permite almacenar una lista de datos donde de ella, se pueden guardar , numeros , str, bolleanos, nullo indefined; 
+puede ser recorrido o modificados por medio de diferentes metodos, como por ejemplo array.push(). array.pop(), entre otras 
