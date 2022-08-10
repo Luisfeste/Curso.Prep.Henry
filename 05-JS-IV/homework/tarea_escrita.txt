@@ -1,0 +1,17 @@
+Objetos: 
+los objetos en JS es un array mas complejo, en este premite agregar propiedades y cada propiedad tiene un valor que puede ser 
+str, num , etc; se puede acceder, modificar, agregar o borrar con  difrentes metodos
+
+Propiedades: 
+son los items que componen un objeto o que estan dentro de un objeto 
+
+Métodos: 
+son ordenes que permiten acceder a un objeto de forma facil como por ejemplo .push, .pop, entre otro.
+
+Bucle for…in
+sirve para recorrer un objeto y devuelve sus propiedades.
+
+Notación de puntos vs notación de corchetes:
+
+esta es la forma de acceder a una propiedad en un objeto, obj.nombre - accede al la propiedad nombre de ese objeto
+obj[nombre] - have lo mismo con la diferencia que con corchetes la duncionalidad es mas amplia y diversa.
