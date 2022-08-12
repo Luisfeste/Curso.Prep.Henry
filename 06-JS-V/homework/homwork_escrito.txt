@@ -1,0 +1,6 @@
+prototype:
+Es un mecanismo en el cuel un nuevo objeto hereda las caracteristicas del objeto alfa sin necesidad que la tenga implicita el nuevo objeto.
+es decir si invocamos un metodo en un objeto y este no lo tiene se remita a buscar el metodo en el prototipo.
+
+Constructors (de Clases):
+los constructores son un objeto universal que perimer insertar los valores de los muchos nuevos objetos. asignan los valores iniciales del nuevo objeto.
